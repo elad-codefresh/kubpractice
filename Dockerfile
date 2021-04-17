@@ -8,4 +8,4 @@ WORKDIR /usr/share/runner
 
 RUN yarn install
 
-CMD ["node", "simpeserver.js"]
+CMD ["node", "simpleserver.js"]
